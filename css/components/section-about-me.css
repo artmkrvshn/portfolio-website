@@ -1,0 +1,86 @@
+.about-me-section {
+    padding: 40px 0;
+    max-width: 70%;
+}
+
+.about-me-section .title {
+    padding: 40px 0;
+    font-size: 32px;
+}
+
+.about-me-section .subtitle {
+    padding-bottom: 40px;
+    font-size: 18px;
+}
+
+.about-me-section .position {
+    font-size: 20px;
+    font-weight: 400;
+    color: #666666;
+}
+
+.about-me-section .employment-type {
+    font-size: 9px;
+    font-weight: 600;
+    color: #018C0F;
+    background: #D7FFE0;
+    width: 100px;
+    height: 25px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-me-section .company,
+.about-me-section .duration {
+    display: flex;
+    column-gap: 5px;
+    font-size: 12px;
+    color: #A7A7A7;
+}
+
+.about-me-section .company {
+    font-weight: 300;
+}
+
+.about-me-section .duration {
+    font-weight: 500;
+}
+
+.about-me-section .working-experience {
+    position: relative;
+    height: 55px;
+    padding: 0;
+}
+
+.about-me-section .working-experience > * {
+    position: absolute;
+    margin: 0;
+}
+
+.about-me-section .working-experience .top-left {
+    top: 0;
+    left: 0;
+}
+
+.about-me-section .working-experience .top-right {
+    top: 0;
+    right: 0;
+}
+
+.about-me-section .working-experience .bottom-left {
+    bottom: 0;
+    left: 0;
+}
+
+.about-me-section .working-experience .bottom-right {
+    bottom: 0;
+    right: 0;
+}
+
+.about-me-section .horizontal-line {
+    opacity: 0.40;
+    margin: 20px 0;
+    color: #EBEAED;
+}

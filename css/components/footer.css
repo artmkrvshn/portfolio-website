@@ -1,0 +1,14 @@
+.footer > * {
+    margin: 50px auto;
+}
+
+.footer .info {
+    display: flex;
+    justify-content: center;
+    column-gap: 100px;
+}
+
+.footer .nav {
+    display: flex;
+    justify-content: center;
+}
