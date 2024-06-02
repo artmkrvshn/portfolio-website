@@ -1,6 +1,10 @@
+@import "button.css";
 @import "container.css";
 @import "footer.css";
+@import "form.css";
 @import "header.css";
+@import "input.css";
+@import "label.css";
 @import "logo.css";
 @import "nav.css";
 @import "project-card.css";
